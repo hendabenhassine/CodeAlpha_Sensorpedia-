@@ -1,7 +1,22 @@
 # Sensorpedia - CodeAlpha Data Analytics Internship Project
+# 🌡️ Sensorpedia - CodeAlpha Data Analytics Internship Project
 
-## Overview
-This project demonstrates web scraping, data cleaning, and exploratory data analysis (EDA) of sensor-related data sourced from Wikipedia. It was created as part of the CodeAlpha Data Analytics Internship program.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Web-Scraping-green" alt="Web Scraping">
+  <img src="https://img.shields.io/badge/Data-Analysis-yellowgreen" alt="Data Analysis">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Sensor+Data+Analysis" alt="Project Banner" width="80%">
+</div>
+
+## 🚀 Overview
+This project demonstrates **web scraping**, **data cleaning**, and **exploratory data analysis (EDA)** of sensor-related data sourced from Wikipedia. It was created as part of the CodeAlpha Data Analytics Internship program.
+
 
 ## Project Structure
 The notebook contains three main tasks:
