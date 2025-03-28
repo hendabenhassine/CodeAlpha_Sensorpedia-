@@ -1,0 +1,404 @@
+Sensor,Category,Technical Description
+Acoustic radiometer,"Acoustic, sound, vibration",Measures sound wave characteristics
+Geophone,"Acoustic, sound, vibration",Measures sound wave characteristics
+Hydrophone,"Acoustic, sound, vibration",Measures sound wave characteristics
+Microphone,"Acoustic, sound, vibration",Measures sound wave characteristics
+Pickup,"Acoustic, sound, vibration",(music technology)
+Seismometer,"Acoustic, sound, vibration",Measures sound wave characteristics
+Sound locator,"Acoustic, sound, vibration",Measures sound wave characteristics
+Air flow meter,Automotive,Air flow
+Air,Automotive,–fuel ratio
+Blind spot monitor,Automotive,Measures vehicle system parameters
+Crankshaft position sensor (CKP),Automotive,Crankshaft position
+Curb feeler,Automotive,Measures vehicle system parameters
+Defect detector,Automotive,Measures vehicle system parameters
+Engine coolant temperature sensor,Automotive,Engine coolant temperature
+Hall effect sensor,Automotive,Hall effect
+Wheel speed sensor,Automotive,Wheel speed
+Airbag sensors,Automotive,(page does not exist)
+Automatic transmission speed sensor,Automotive,Automatic transmission speed (page does not exist)
+Brake fluid pressure sensor,Automotive,Brake fluid pressure
+Camshaft position sensor (CMP),Automotive,Camshaft position (page does not exist)
+Cylinder Head Temperature gauge,Automotive,Measures vehicle system parameters
+Engine crankcase pressure sensor,Automotive,Engine crankcase pressure (page does not exist)
+Exhaust gas temperature sensor,Automotive,Exhaust gas temperature gauge
+Fuel level sensor,Automotive,Fuel level (page does not exist)
+Fuel pressure sensor,Automotive,Fuel pressure (page does not exist)
+Knock sensor,Automotive,Engine knocking
+Light sensor,Automotive,Light
+MAP sensor,Automotive,MAP
+Mass airflow sensor,Automotive,Mass flow
+Oil level sensor,Automotive,Oil level (page does not exist)
+Oil pressure sensor,Automotive,Oil pressure (page does not exist)
+Omniview technology,Automotive,Measures vehicle system parameters
+Oxygen sensor (O 2 ),Automotive,Oxygen
+Parking sensor,Automotive,Parking
+Radar gun,Automotive,Measures vehicle system parameters
+Radar sensor,Automotive,Radar
+Speed sensor,Automotive,Speed
+Throttle position sensor,Automotive,Throttle position
+Tire pressure sensor,Automotive,Tire-pressure monitoring system
+Torque sensor,Automotive,Torque (page does not exist)
+Transmission fluid temperature sensor,Automotive,Transmission control unit
+Turbine speed sensor,Automotive,Transmission control unit
+Variable reluctance sensor,Automotive,Variable reluctance
+Vehicle speed sensor,Automotive,Transmission control unit
+Water,Automotive,Measures vehicle system parameters
+Wheel speed sensor,Automotive,Wheel speed
+ABS sensors,Automotive,ABS
+Breathalyzer,Chemical,Measures physical characteristics
+Carbon dioxide sensor,Chemical,Carbon dioxide
+Carbon monoxide detector,Chemical,Measures physical characteristics
+Catalytic bead sensor,Chemical,Catalytic bead
+Chemical field,Chemical,Effect transistor
+Chemiresistor,Chemical,Measures physical characteristics
+Electrochemical gas sensor,Chemical,Electrochemical gas
+Electronic nose,Chemical,Measures physical characteristics
+Electrolyte,Chemical,–insulator–semiconductor
+Energy,Chemical,Dispersive X-ray spectroscopy
+Fluorescent chloride sensors,Chemical,Measures physical characteristics
+Holographic sensor,Chemical,Holographic
+Hydrocarbon dew point analyzer,Chemical,Hydrocarbon dew point
+Hydrogen sensor,Chemical,Hydrogen
+Hydrogen sulfide sensor,Chemical,Hydrogen sulfide
+Infrared point sensor,Chemical,Infrared point
+Ion,Chemical,Selective electrode
+ISFET,Chemical,Measures physical characteristics
+Nondispersive infrared sensor,Chemical,Nondispersive infrared
+Microwave chemistry sensor,Chemical,Microwave chemistry
+Morphix Chameleon,Chemical,Measures physical characteristics
+Nitrogen oxide sensor,Chemical,Nitrogen oxide
+Nondispersive infrared sensor,Chemical,Nondispersive infrared
+Olfactometer,Chemical,Measures physical characteristics
+Optode,Chemical,Measures physical characteristics
+Oxygen sensor,Chemical,Oxygen
+Ozone monitor,Chemical,Measures physical characteristics
+Pellistor,Chemical,Measures physical characteristics
+pH glass electrode,Chemical,Measures physical characteristics
+Potentiometric sensor,Chemical,Potentiometric
+Redox electrode,Chemical,Measures physical characteristics
+Smoke detector,Chemical,Measures physical characteristics
+Zinc oxide nanorod sensor,Chemical,Zinc oxide nanorod
+Current sensor,"Electric current, electric potential, magnetic, radio",Current
+Daly detector,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Electroscope,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Electron multiplier,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Faraday cup,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Galvanometer,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Hall effect sensor,"Electric current, electric potential, magnetic, radio",Hall effect
+Hall probe,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Magnetic anomaly detector,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Magnetometer,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Magnetoresistance,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+MEMS magnetic field sensor,"Electric current, electric potential, magnetic, radio",MEMS magnetic field
+Metal detector,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Planar Hall sensor,"Electric current, electric potential, magnetic, radio",Planar Hall
+Radio direction finder,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Test light,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Voltage detector,"Electric current, electric potential, magnetic, radio",Measures physical characteristics
+Actinometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Air pollution sensor,"Environment, weather, moisture, humidity",Air pollution
+Bedwetting alarm,"Environment, weather, moisture, humidity",Measures physical characteristics
+Ceilometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Dew warning,"Environment, weather, moisture, humidity",Measures physical characteristics
+Electrochemical gas sensor,"Environment, weather, moisture, humidity",Electrochemical gas
+Fish counter,"Environment, weather, moisture, humidity",Measures physical characteristics
+Frequency domain sensor,"Environment, weather, moisture, humidity",Frequency domain
+Gas detector,"Environment, weather, moisture, humidity",Measures physical characteristics
+Hook gauge evaporimeter,"Environment, weather, moisture, humidity",Measures physical characteristics
+Humistor,"Environment, weather, moisture, humidity",Measures physical characteristics
+Hygrometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Leaf sensor,"Environment, weather, moisture, humidity",Leaf
+Lysimeter,"Environment, weather, moisture, humidity",Measures physical characteristics
+Pyranometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Pyrgeometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Psychrometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+Rain gauge,"Environment, weather, moisture, humidity",Measures physical characteristics
+Rain sensor,"Environment, weather, moisture, humidity",Rain
+Seismometer,"Environment, weather, moisture, humidity",Measures physical characteristics
+SNOTEL,"Environment, weather, moisture, humidity",Measures physical characteristics
+Snow gauge,"Environment, weather, moisture, humidity",Measures physical characteristics
+Soil moisture sensor,"Environment, weather, moisture, humidity",Soil moisture
+Stream gauge,"Environment, weather, moisture, humidity",Measures physical characteristics
+Tide gauge,"Environment, weather, moisture, humidity",Measures physical characteristics
+Weather radar,"Environment, weather, moisture, humidity",Measures physical characteristics
+Air flow meter,"Flow, fluid velocity",Air flow
+Anemometer,"Flow, fluid velocity",Measures physical characteristics
+Flow sensor,"Flow, fluid velocity",Flow
+Gas meter,"Flow, fluid velocity",Gas
+Mass flow sensor,"Flow, fluid velocity",Mass flow
+Water meter,"Flow, fluid velocity",Water
+Bubble chamber,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Cloud chamber,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Geiger counter,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Geiger,"Ionizing radiation, subatomic particles",–Müller tube
+Ionization chamber,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Gaseous ionization detectors,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Neutron detection,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Particle detector,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Proportional counter,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Scintillator,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Scintillation counter,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Semiconductor detector,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Thermoluminescent dosimeter,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Wire chamber,"Ionizing radiation, subatomic particles",Measures physical characteristics
+Airspeed indicator,Navigation instruments,Measures physical characteristics
+Altimeter,Navigation instruments,Measures physical characteristics
+Attitude indicator,Navigation instruments,Measures physical characteristics
+Depth gauge,Navigation instruments,Measures physical characteristics
+Fluxgate compass,Navigation instruments,Measures physical characteristics
+Gyroscope,Navigation instruments,Measures physical characteristics
+Inertial navigation system,Navigation instruments,Measures physical characteristics
+Inertial reference unit,Navigation instruments,Measures physical characteristics
+Machmeter,Navigation instruments,Measures physical characteristics
+Magnetic compass,Navigation instruments,Measures physical characteristics
+MHD sensor,Navigation instruments,MHD
+Ring laser gyroscope,Navigation instruments,Measures physical characteristics
+Sextant,Navigation instruments,Measures physical characteristics
+Turn coordinator,Navigation instruments,Measures physical characteristics
+Variometer,Navigation instruments,Measures physical characteristics
+Vibrating structure gyroscope,Navigation instruments,Measures physical characteristics
+Yaw,Navigation instruments,Rate
+Accelerometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Auxanometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Capacitive displacement sensor,"Position, angle, displacement, distance, speed, acceleration",Capacitive displacement
+Capacitive sensing,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Displacement sensor (general article),"Position, angle, displacement, distance, speed, acceleration",Displacement
+Flex sensor,"Position, angle, displacement, distance, speed, acceleration",Flex
+Free fall sensor,"Position, angle, displacement, distance, speed, acceleration",Free fall
+Gravimeter,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Gyroscopic sensor,"Position, angle, displacement, distance, speed, acceleration",Gyroscopic
+Impact sensor,"Position, angle, displacement, distance, speed, acceleration",Impact
+Inclinometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Incremental encoder,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Integrated circuit piezoelectric sensor,"Position, angle, displacement, distance, speed, acceleration",Integrated circuit piezoelectric
+Laser rangefinder,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Laser surface velocimeter,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+LIDAR,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Linear encoder,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Linear variable differential transformer (LVDT),"Position, angle, displacement, distance, speed, acceleration",Linear variable differential transformer
+Liquid capacitive inclinometers,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Odometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Photoelectric sensor,"Position, angle, displacement, distance, speed, acceleration",Photoelectric
+Piezoelectric accelerometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Position sensor,"Position, angle, displacement, distance, speed, acceleration",Position
+Position sensitive device,"Position, angle, displacement, distance, speed, acceleration",Position sensitive
+Angular rate sensor,"Position, angle, displacement, distance, speed, acceleration",Angular rate
+Rotary encoder,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Rotary variable differential transformer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Selsyn,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Shock detector,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Shock data logger,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Sudden Motion Sensor,"Position, angle, displacement, distance, speed, acceleration",Sudden Motion
+Tilt sensor,"Position, angle, displacement, distance, speed, acceleration",Tilt
+Tachometer,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Ultrasonic thickness gauge,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Ultra,"Position, angle, displacement, distance, speed, acceleration",Wideband
+Variable reluctance sensor,"Position, angle, displacement, distance, speed, acceleration",Variable reluctance
+Velocity receiver,"Position, angle, displacement, distance, speed, acceleration",Measures physical characteristics
+Magnetic sensor,"Position, angle, displacement, distance, speed, acceleration",Magnetic
+Charge,"Optical, light, imaging, photon",Coupled
+CMOS sensor,"Optical, light, imaging, photon",Active pixel
+Angle,"Optical, light, imaging, photon",–sensitive pixel
+Colorimeter,"Optical, light, imaging, photon",Tristimulus
+Contact image sensor,"Optical, light, imaging, photon",Contact image
+Electro,"Optical, light, imaging, photon",Optical
+Flame detector,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Infra,"Optical, light, imaging, photon",Red
+Kinetic inductance detector,"Optical, light, imaging, photon",Measures light intensity or wavelength
+LED as light sensor,"Optical, light, imaging, photon",LED as light
+Light,"Optical, light, imaging, photon",Addressable potentiometric
+Nichols radiometer,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Fiber optic sensors,"Optical, light, imaging, photon",Optical fiber
+Optical position sensor,"Optical, light, imaging, photon",Optical position
+Thermopile laser sensors,"Optical, light, imaging, photon",Thermopile laser
+Photodetector,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photodiode,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photomultiplier,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photomultiplier tube,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Phototransistor,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photoelectric sensor,"Optical, light, imaging, photon",Photoelectric
+Photoionization detector,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photomultiplier,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photoresistor,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Photoswitch,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Phototube,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Scintillometer,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Shack,"Optical, light, imaging, photon",–Hartmann wavefront
+Single,"Optical, light, imaging, photon",Photon avalanche diode
+Superconducting nanowire single,"Optical, light, imaging, photon",Photon detector
+Transition,"Optical, light, imaging, photon",Edge
+Visible Light Photon Counter,"Optical, light, imaging, photon",Measures light intensity or wavelength
+Wavefront sensor,"Optical, light, imaging, photon",Wavefront
+Barograph,Pressure,Measures force per unit area
+Barometer,Pressure,Measures force per unit area
+Boost gauge,Pressure,Measures force per unit area
+Bourdon gauge,Pressure,Measures force per unit area
+Hot filament ionization gauge,Pressure,Measures force per unit area
+Ionization gauge,Pressure,Measures force per unit area
+McLeod gauge,Pressure,Measures force per unit area
+Oscillating U,Pressure,Tube
+Permanent downhole gauge,Pressure,Measures force per unit area
+Piezometer,Pressure,Measures force per unit area
+Pirani gauge,Pressure,Measures force per unit area
+Pressure sensor,Pressure,Measures force per unit area
+Pressure gauge,Pressure,Measures force per unit area
+Tactile sensor,Pressure,Tactile
+Time pressure gauge,Pressure,Measures force per unit area
+Bhangmeter,"Force, density, level",Measures physical characteristics
+Hydrometer,"Force, density, level",Measures physical characteristics
+Force gauge and Force Sensor,"Force, density, level",Force gauge
+Level sensor,"Force, density, level",Level
+Load cell,"Force, density, level",Measures physical characteristics
+Magnetic level gauge,"Force, density, level",Measures physical characteristics
+Nuclear density gauge,"Force, density, level",Measures physical characteristics
+Piezocapacitive pressure sensor,"Force, density, level",Piezocapacitive pressure (page does not exist)
+Piezoelectric sensor,"Force, density, level",Piezoelectric
+Strain gauge,"Force, density, level",Measures physical characteristics
+Torque sensor,"Force, density, level",Torque (page does not exist)
+Viscometer,"Force, density, level",Measures physical characteristics
+Bolometer,"Thermal, heat, temperature",Measures thermal energy levels
+Bimetallic strip,"Thermal, heat, temperature",Measures thermal energy levels
+Calorimeter,"Thermal, heat, temperature",Measures thermal energy levels
+Exhaust gas temperature gauge,"Thermal, heat, temperature",Measures thermal energy levels
+Flame detection,"Thermal, heat, temperature",Measures thermal energy levels
+Gardon gauge,"Thermal, heat, temperature",Measures thermal energy levels
+Golay cell,"Thermal, heat, temperature",Measures thermal energy levels
+Heat flux sensor,"Thermal, heat, temperature",Heat flux
+Infrared thermometer,"Thermal, heat, temperature",Measures thermal energy levels
+Microbolometer,"Thermal, heat, temperature",Measures thermal energy levels
+Microwave radiometer,"Thermal, heat, temperature",Measures thermal energy levels
+Net radiometer,"Thermal, heat, temperature",Measures thermal energy levels
+Quartz thermometer,"Thermal, heat, temperature",Measures thermal energy levels
+Resistance thermometer,"Thermal, heat, temperature",Measures thermal energy levels
+Silicon bandgap temperature sensor,"Thermal, heat, temperature",Silicon bandgap temperature
+Special sensor microwave/imager,"Thermal, heat, temperature",Special microwave/imager
+Temperature gauge,"Thermal, heat, temperature",Measures thermal energy levels
+Thermistor,"Thermal, heat, temperature",Measures thermal energy levels
+Thermocouple,"Thermal, heat, temperature",Measures thermal energy levels
+Thermometer,"Thermal, heat, temperature",Measures thermal energy levels
+Phosphor thermometry,"Thermal, heat, temperature",Measures thermal energy levels
+Pyrometer,"Thermal, heat, temperature",Measures thermal energy levels
+Alarm sensor,"Proximity, presence",Alarm
+Doppler radar,"Proximity, presence",Measures physical characteristics
+Motion detector,"Proximity, presence",Measures physical characteristics
+Occupancy sensor,"Proximity, presence",Occupancy
+Proximity sensor,"Proximity, presence",Proximity
+Passive infrared sensor,"Proximity, presence",Passive infrared
+Reed switch,"Proximity, presence",Measures physical characteristics
+Stud finder,"Proximity, presence",Measures physical characteristics
+Triangulation sensor,"Proximity, presence",Triangulation
+Touch switch,"Proximity, presence",Measures physical characteristics
+Wired glove,"Proximity, presence",Measures physical characteristics
+Active pixel sensor,Sensor technology,Active pixel
+Back,Sensor technology,Illuminated
+BioFET,Sensor technology,Bio-FET
+Biochip,Sensor technology,Measures physical characteristics
+Biosensor,Sensor technology,Measures physical characteristics
+Capacitance probe,Sensor technology,Measures physical characteristics
+Capacitive sensing,Sensor technology,Measures physical characteristics
+Catadioptric sensor,Sensor technology,Catadioptric
+Carbon paste electrode,Sensor technology,Measures physical characteristics
+Digital sensors,Sensor technology,Measures physical characteristics
+Displacement receiver,Sensor technology,Measures physical characteristics
+Electromechanical film,Sensor technology,Measures physical characteristics
+Electro,Sensor technology,Optical
+Electrochemical fatigue crack sensor,Sensor technology,Electrochemical fatigue crack
+Fabry,Sensor technology,–Pérot interferometer
+Fiber Bragg grating,Sensor technology,Measures physical characteristics
+Fisheries acoustics,Sensor technology,Measures physical characteristics
+Image sensor,Sensor technology,Image
+Image sensor format,Sensor technology,Image format
+Inductive sensor,Sensor technology,Inductive
+Intelligent sensor,Sensor technology,Intelligent
+Lab,Sensor technology,On-a-chip
+Leaf sensor,Sensor technology,Leaf
+Machine vision,Sensor technology,Measures physical characteristics
+Microelectromechanical systems,Sensor technology,Measures physical characteristics
+MOSFET,Sensor technology,Measures physical characteristics
+Photoelasticity,Sensor technology,Measures physical characteristics
+Quantum sensor,Sensor technology,Quantum
+Radar Ground,Sensor technology,Radar
+Stretch sensor,Sensor technology,Stretch
+Sensor array,Sensor technology,Array
+Sensor fusion,Sensor technology,Fusion
+Sensor grid,Sensor technology,Grid
+Sensor node,Sensor technology,Node
+Soft sensor,Sensor technology,Soft
+Sonar,Sensor technology,Measures physical characteristics
+Staring array,Sensor technology,Measures physical characteristics
+Tapered element oscillating microbalance (TEOM),Sensor technology,Tapered element oscillating microbalance
+Transducer,Sensor technology,Measures physical characteristics
+Ultrasonic sensor,Sensor technology,Ultrasonic
+Video sensor,Sensor technology,Video (page does not exist)
+Visual sensor network,Sensor technology,Visual network
+Wheatstone bridge,Sensor technology,Measures physical characteristics
+Wireless sensor network,Sensor technology,Wireless network
+Through,Sensor technology,Beam edge (page does not exist)
+Ground,Sensor technology,Penetrating radar
+Synthetic aperture radar,Sensor technology,Measures physical characteristics
+Radar tracker,Sensor technology,Measures physical characteristics
+Wheel speed sensors,Speed sensor,Wheel speed
+Speedometers,Speed sensor,Speedometer
+Pitometer logs,Speed sensor,Pitometer log
+Pitot tubes,Speed sensor,Pitot tube
+Airspeed indicators,Speed sensor,Airspeed indicator
+Piezo sensors (e.g. in a road surface ),Speed sensor,Piezoelectric
+LIDAR,Speed sensor,Measures physical characteristics
+Ground speed radar,Speed sensor,Measures physical characteristics
+Doppler radar,Speed sensor,Measures physical characteristics
+ANPR (where vehicles are timed over a fixed distance),Speed sensor,Automatic number-plate recognition
+Laser surface velocimeters for moving surfaces,Speed sensor,Laser surface velocimeter
+Actigraphy,Others,Measures physical characteristics
+Air pollution sensor,Others,Air pollution
+Analog image processing,Others,Measures physical characteristics
+Atomic force microscopy,Others,Measures physical characteristics
+Atomic Gravitational Wave Interferometric Sensor,Others,Atomic Gravitational Wave Interferometric
+Attitude control (spacecraft),Others,"Horizon sensor , Earth sensor , Moon sensor , Satellite Sensor , Sun sensor"
+Catadioptric sensor,Others,Catadioptric
+Chemoreceptor,Others,Measures physical characteristics
+Compressive sensing,Others,Measures physical characteristics
+Cryogenic particle detectors,Others,Measures physical characteristics
+Dew warning,Others,Measures physical characteristics
+Diffusion tensor imaging,Others,Measures physical characteristics
+Digital holography,Others,Measures physical characteristics
+Electronic tongue,Others,Measures physical characteristics
+Fine Guidance Sensor,Others,Fine Guidance
+Flat panel detector,Others,Measures physical characteristics
+Functional magnetic resonance imaging,Others,Measures physical characteristics
+Glass break detector,Others,Measures physical characteristics
+Heartbeat sensor,Others,Heartbeat
+Hyperspectral sensors,Others,Hyperspectral imaging
+"IRIS (Biosensor) , Interferometric Reflectance Imaging Sensor",Others,IRIS (Biosensor)
+Laser beam profiler,Others,Measures physical characteristics
+Littoral Airborne Sensor/Hyperspectral,Others,Littoral Airborne /Hyperspectral
+LORROS,Others,Measures physical characteristics
+Millimeter wave scanner,Others,Measures physical characteristics
+Magnetic resonance imaging,Others,Measures physical characteristics
+Moire deflectometry,Others,Measures physical characteristics
+Molecular sensor,Others,Molecular
+Nanosensor,Others,Measures physical characteristics
+Nano,Others,Tetherball
+Omnidirectional camera,Others,Measures physical characteristics
+Organoleptic sensors,Others,(page does not exist)
+Optical coherence tomography,Others,Measures physical characteristics
+Phase unwrapping techniques,Others,Phase unwrapping
+Polygraph Truth Detection,Others,Polygraph
+Positron emission tomography,Others,Measures physical characteristics
+Push broom scanner,Others,Measures physical characteristics
+Quantization (signal processing),Others,Quantization (signal processing)
+Range imaging,Others,Measures physical characteristics
+Scanning SQUID microscope,Others,Measures physical characteristics
+Single,Others,Photon emission computed tomography
+Smartdust,Others,Measures physical characteristics
+"SQUID , Superconducting quantum interference device",Others,SQUID
+"SSIES , Special Sensors",Others,SSIES
+"SSMIS , Special Sensor Microwave Imager / Sounder",Others,SSMIS
+Structured,Others,Light 3D scanner
+"Sun sensor , Attitude control (spacecraft)",Others,Sun
+Superconducting nanowire single,Others,Photon detector
+Thin,Others,Film thickness monitor
+Time,Others,Of-flight camera
+"TriDAR , Triangulation and LIDAR Automated Rendezvous and Docking",Others,TriDAR
+Unattended Ground Sensors,Others,Measures physical characteristics
+Global List of Sensor Manufacturers List of commercial sensor manufacturers from around the world,References,List of commercial sensor manufacturers from around the world
