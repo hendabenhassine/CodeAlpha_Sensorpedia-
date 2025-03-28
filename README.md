@@ -10,9 +10,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Sensor+Data+Analysis" alt="Project Banner" width="80%">
-</div>
 
 ## 🚀 Overview
 This project demonstrates **web scraping**, **data cleaning**, and **exploratory data analysis (EDA)** of sensor-related data sourced from Wikipedia. It was created as part of the CodeAlpha Data Analytics Internship program.
